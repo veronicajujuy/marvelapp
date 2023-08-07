@@ -48,6 +48,7 @@ main {
   text-align: center;
   position: relative;
   top: 100px;
+  height: fit-content;
 }
 
 .fa-solid {
@@ -62,7 +63,8 @@ main {
 .card {
   display: block;
   width: 80%;
-  min-height: 405px;
+  max-width: 300px;
+  min-height: fit-content;
   font-size: 1.2rem;
   border: 2px solid #eee;
   border-radius: 10px;
@@ -219,9 +221,7 @@ footer {
     align-items: center;
   }
   .card {
-    width: 30%;
-    min-height: fit-content;
-    height: auto;
+    width: 40%;
     background-color: #fff;
   }
   .card img {
@@ -261,10 +261,11 @@ footer {
   .flex-container {
     align-items: flex-start;
   }
+
   .card {
-    width: 22%;
-    max-height: 450px;
+    width: 80%;
   }
+
   .card p {
     font-size: 11px;
   }
