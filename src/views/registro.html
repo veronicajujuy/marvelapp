@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>MarvelApp</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <a href="/"
+          ><img class="logo" src="./images/Marvellogo.png" alt="logo"
+        /></a>
+        <i class="fa-solid fa-bars"></i>
+        <ul class="item">
+          <li>comics</li>
+          <li>peliculas</li>
+        </ul>
+        <ul class="item">
+          <li><a href="/contacto">Contacto</a></li>
+          <li>registro</li>
+          <li>ingreso <i class="fa-solid fa-right-to-bracket"></i></li>
+        </ul>
+      </nav>
+      <div class="banner"></div>
+    </header>
+
+    <main class="general">
+      <form action="respuesta.html" method="POST" class="formulario">
+        <label for="nombreyapellido">Nombre y Apellido: </label>
+        <input
+          type="text"
+          name="nombreyapellido"
+          id="nombreyapellido"
+          placeholder="Nombre y Apellido"
+        />
+        <label for="fecha-nacimiento">Fecha de Nacimiento:</label>
+        <input type="date" value="2000-01-01" id="fecha-nacimiento" />
+
+        <!-- En el radio button lo que tiene que ser igual es el name -->
+        <label>Sexo:</label>
+        <div class="sexo">
+          <label>Femenino</label>
+          <input type="radio" name="sexo" value="femenino" />
+          <label>Masculino</label>
+          <input type="radio" name="sexo" value="masculino" />
+          <label>Otro</label>
+          <input type="radio" name="sexo" value="otro" />
+        </div>
+        <label for="">Personaje favorito</label>
+        <select name="personajes" id="personajes">
+          <option value="spider-man" selected>Spider-Man</option>
+          <option value="wolverine">Wolverine</option>
+          <option value="thor">Thor</option>
+          <option value="otro">otro</option>
+        </select>
+        <label for="foto">Subi una foto para el perfil</label>
+        <input type="file" name="foto" id="foto" />
+        <label for="password">Contraseña</label>
+        <input type="password" name="password" />
+        <label for="confirm-password">Confirmar Contraseña</label>
+        <input type="password" name="confirm-password" />
+        <div class="botones">
+          <button type="reset">Borrar</button>
+          <button type="submit">Enviar</button>
+        </div>
+      </form>
+    </main>
+
+    <footer>
+      <h3 class="footer-title">Contacto</h3>
+      <p class="footer-parrafo">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem facere
+        sequi, saepe, id laborum quae accusantium recusandae, culpa
+        exercitationem deserunt sunt natus eligendi harum architecto eos fugit
+        hic quaerat voluptates?
+      </p>
+      <p class="copyright">Copyright 2023</p>
+    </footer>
+  </body>
+</html>
