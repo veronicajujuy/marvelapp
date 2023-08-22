@@ -12,6 +12,9 @@ const mainController = {
   showRegitro: (req, res) => {
     res.render("registro");
   },
+  showLogin: (req, res) => {
+    res.render("login");
+  },
 };
 
 module.exports = mainController;
