@@ -1,18 +1,12 @@
 const express = require("express");
 const app = express();
-const path = require("path");
+const mainRouter = require("./routes/mainRoutes");
 
+app.set("view engine", "ejs");
+app.set("views", "./src/views");
 // para decirle a express donde se encuentran nuestros archivos estaticos imagenes, css
 app.use(express.static("public"));
 
-app.listen(3000, () => console.log("servidor escuchando en puerto 3000!"));
+app.use(mainRouter);
 
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "./views/home.html"));
-});
-app.get("/contacto", (req, res) => {
-  res.sendFile(path.join(__dirname, "./views/contacto.html"));
-});
-app.get("/registro", (req, res) => {
-  res.sendFile(path.join(__dirname, "./views/registro.html"));
-});
+app.listen(3002, () => console.log("servidor escuchando en puerto 3002!"));

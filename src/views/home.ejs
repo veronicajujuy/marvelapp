@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>MarvelApp</title>
+  </head>
+  <%- include ('./partials/navbar') %>
+  <body>
+    <main>
+      <section>
+        <h2 class="title"><%= titulo %></h2>
+        <div class="flex-container">
+          <!-- card -->
+          <% characters.map(item => {%>
+          <div class="card">
+            <img
+              src="<%= item.image %>"
+              width="200px"
+              alt="imagen de spider-man"
+            />
+            <div class="detalle">
+              <p><b><%= item.name %></b></p>
+              <p>Nombre: <em><%= item.name %></em></p>
+              <p>Primera Aparicion: Amazing Fantasy #15</p>
+            </div>
+          </div>
+          <!-- card -->
+          <% })%>
+        </div>
+      </section>
+      <i class="fa-solid fa-circle-chevron-down posicion-fixed"></i>
+    </main>
+
+    <%- include ("./partials/footer") %>
+  </body>
+</html>
