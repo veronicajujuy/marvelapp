@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "The Amazing Spider-man Vol. 04 - Carnage Absoluto",
+    "price": 2200,
+    "discount": 50,
+    "category": "comics",
+    "description": "Y ahora… ¡Carnage! Mary Jane toma una decisión que pondrá toda la vida de Peter de cabeza, pero Spider-Man no tiene tiempo para lidiar con eso porque llega… ¡Carnage Absoluto! Solo el arácnido puede salvar al joven Dylan Brock del simbionte asesino. Carnage busca a todos los que hayan tenudo un simbionte alguna vez... ¡y eso incluye a Norman Osborn, quien alguna vez fue el Red Goblin! ¿Puede Spider-Man salvar a Norman de Carnage? ¿Valdrá la pena? ¡Además, una historia jamás contada de los días del reinado de locura del Red Goblin!",
+    "image": "product01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MUST HAVE THANOS EL ORIGEN",
+    "price": 10500,
+    "discount": 50,
+    "category": "comics",
+    "description": "Acompáñanos al filo de la noche, ese lugar en el que nacen las pesadillas para dar forma a los peores monstruos que la imaginación es capaz de concebir. Uno de esos monstruos se llama Thanos, el Titán Loco, un nombre que es temido de un confín al otro del universo. Pero no siempre fue así. Hubo un tiempo en el que Thanos pareció destinado a una vida tranquila y quizás incluso feliz… antes de caer en los brazos de su único y verdadero amor, la Muerte.",
+    "image": "product02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "VALKYRIA JANE FOSTER 03 LAS PODEROSAS VALKYRIAS",
+    "price": 4100,
+    "discount": 50,
+    "category": "comics",
+    "description": "Un nuevo comienzo para Jane Foste... ¡Con nuevos y antiguos aliados! Jane creía que era la última valquiria que quedaba en pie, pero la lucha contra el Rey de Negro le demostró lo contrario. Ahora las valquirias reunidas deben redefinir su rol en un mundo cambiado... pero Asgard no se lo pondrá fácil. Cuando Loki le comente a Jane rumores de una bestia acosando a las almas de Midgard, ella saltará a la acción. Pero no será la única detrás de las huellas del lobo, ¡y pronto cruzará su camino con Kraven el Cazador! Mientras tanto, su compañera valquiria le hizo hace mucho una promesa a la mujer que amaba, y es hora de que la cumpla. ",
+    "image": "product03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Simbionte Spider-Man Vol 02",
+    "price": 2200,
+    "discount": 50,
+    "category": "comics",
+    "description": "¡Un regreso a los días en los que Spider-Man no conocía la verdad sobre su traje simbiótico! Hace años, Peter Parker volvió del Mundobatalla con un nuevo traje negro que portaba un misterioso y oscuro secreto. El traje estaba vivo y era un simbionte alienígena que se convertiría, un día, en Venom. Pero incluso este nuevo traje no será suficiente para protegerlo de los nuevos poderes del Hobgoblin. ¿De dónde salieron? Será mejor que el Doctor Strange sepa la respuesta, ¡porque la realidad misma depende de ello! ¡El futuro del mundo depende del Simbionte Spider-Man!",
+    "image": "product04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Guardianes de la Galaxia 02 - Infieles",
+    "price": 3100,
+    "discount": 50,
+    "category": "comics",
+    "description": "¿Rocket está muerto? Los Guardianes de la Galaxia disfrutan de un merecido descanso, pero sus vacaciones son interrumpidas cuando un conocido y poderoso enemigo regresa. ¿Qué tiene que ver esto con cierto mapache experto en armas? La mala noticia es que Rocket está muriendo. La buena es que todavía le queda una última batalla. Con la Iglesia de la Verdad amenazando con dominar el cosmos, ¿podrán Rocket y los pocos Guardianes que aún lo apoyan hacer la diferencia?",
+    "image": "product05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Venom 04: La Guerra De Los Reinos",
+    "price": 2200,
+    "discount": 50,
+    "category": "comics",
+    "description": "¡El simbionte maldito entra de lleno en la guerra! La Guerra de los Reinos estalla, y Venom se ve envuelto en la campaña de Malekith por dominar los diez reinos. El Elfo Oscuro tiene planes para el simbionte, y podrían salir impunes de todo esto. Además. Carnage está cazando antiguos huéspedes de simbiontes, la próxima en la lista es Andi Bento (Manía), quien ya no tiene simbionte para defenderse ¡pero sí poderes infernales! ¡Cullen Bunn, Iban Coello y Joshua Cassara nos traen un nuevo y aterrador capítulo de la saga de Venom!",
+    "image": "product06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "THOR 04: REY THOR",
+    "price": 2200,
+    "discount": 50,
+    "category": "comics",
+    "description": "¡Una última aventura del todopoderoso señor de Asgard! Jason Aaron y Esad Ribic introdujeron al Thor del futuro distante al principio de su épica saga del dios del Trueno. El padre de todo de un reino quebrado en un universo moribundo que luchaba contra Gorr, el carnicero de dioses. Ahora, en el final, la Necroespada ha vuelto, en manos de su mayor enemigo: ¡Loki! ¡es hora de un último enfrentamiento cataclísmico en el fin de todo!",
+    "image": "product07.jpg"
+  },
+  {
+    "id": 8,
+    "name": "COLECCIÓN SPIDER-MAN: UNIVERSO-ARAÑA 17: LOS HOMBRES ARAÑA",
+    "price": 4200,
+    "discount": 50,
+    "category": "comics",
+    "description": "¿LISTOS PARA EL DOBLE DE ACCIÓN ARÁCNIDA? Lo que comienza como una habitual noche de lucha contra el crimen termina arrojando al Spider-Man original, Peter Parker, en un viaje al Universo Ultimate. Lo que él no sabe es que del otro lado existe otro amigable vecino, un chico llamado Miles Morales, ¡Quien tomó el manto de Spider-Man cuando el Peter Parker de ese universo falleció!",
+    "image": "product08.jpg"
+  },
+  {
+    "id": 9,
+    "name": "MUST HAVE WOLVERINE EL VIEJO LOGAN",
+    "price": 9100,
+    "discount": 50,
+    "category": "comics",
+    "description": "Hace cincuenta años los héroes cayeron para no volver a levantarse. Pocos sobrevivieron a la purga que la unión de los villanos llevó a cabo. Uno de los pocos supervivientes fue Wolverine, un hombre que ya no responde por ese alias. Ahora es solo Logan, y Logan ha jurado no volver a matar o hacer daño a otro ser vivo en lo que le quede de vida. ¿Qué pudo ocurrir hace medio siglo para que uno de los mayores héroes de la historia renunciara a luchar cuando el mundo más lo necesitaba?",
+    "image": "product09.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Venom 07: Más Allá",
+    "price": 4000,
+    "discount": 50,
+    "category": "comics",
+    "description": "¡La vida de Venom está por ser infectada por virus! Este nuevo enemigo armado amenaza con destruir todo lo que a Eddie Brock le importa: Su hijo, su simbionte... ¡y su propia vida! Pero la batalla se está saliendo de control y hasta la realidad misma amenaza con derrumbarse... ¡y Venom acaba en un mundo completamente distinto! Ahora, otro enemigo aún más letal se prepara para atacar en esta Tierra diferente y más peligrosa. Afortunadamente, nuevos aliados (algunos con rostros familiares) se enlistan a ayudar... ¡incluyendo uno del que Eddie no querrá separarse! Pero cuando los horrores de este extraño lugar y del Códex se vuelvan claros.",
+    "image": "product10.jpg"
+  }
+]

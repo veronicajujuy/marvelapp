@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const mainRouter = require("./routes/mainRoutes");
+const productRouter = require("./routes/productRoutes");
 
 app.set("view engine", "ejs");
 app.set("views", "./src/views");
@@ -8,5 +9,6 @@ app.set("views", "./src/views");
 app.use(express.static("public"));
 
 app.use(mainRouter);
+app.use("/products", productRouter);
 
 app.listen(3002, () => console.log("servidor escuchando en puerto 3002!"));

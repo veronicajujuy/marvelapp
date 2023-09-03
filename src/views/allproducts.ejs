@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include ('./partials/head') %>
+
+  <body>
+    <%- include ('./partials/navbar') %>
+    <main>
+      <section>
+        <h2 class="title"><%= titulo %></h2>
+        <div class="flex-container">
+          <!-- card -->
+          <% products.map(item => {%>
+          <a href="/products/detail/<%= item.id %>">
+            <div class="card">
+              <img
+                src="/images/products/<%= item.image %>"
+                width="200px"
+                alt="imagen de spider-man"
+              />
+              <div class="detalle">
+                <p><b><%= item.name %></b></p>
+                <p><em><%= item.discount %></em></p>
+                <p><%= item.price %></p>
+              </div>
+            </div>
+          </a>
+          <!-- card -->
+          <% })%>
+        </div>
+      </section>
+      <i class="fa-solid fa-circle-chevron-down posicion-fixed"></i>
+    </main>
+
+    <%- include ("./partials/footer") %>
+  </body>
+</html>

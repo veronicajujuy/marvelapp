@@ -160,7 +160,7 @@ footer {
   margin: 10px 0;
 }
 
-.formulario button {
+.button-1 {
   background-color: var(--rojomarvel);
   color: #fff;
   padding: 10px 20px;
@@ -188,6 +188,11 @@ footer {
   transform: rotate(-90deg);
   opacity: 0.5;
 }
+a {
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+}
 
 @keyframes logo {
   0% {
@@ -210,6 +215,24 @@ footer {
   /* animation: logo 1s ease-in infinite alternate; */
 }
 
+/* Estilo del detalle del producto */
+.card-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.part-detail {
+  padding: 10px;
+}
+
+.card-detail img {
+  width: 50%;
+}
+.detail-title {
+  margin: 20px;
+  gap: 5px;
+}
 @media (min-width: 460px) {
   .logo {
     width: 200px;
@@ -246,6 +269,12 @@ footer {
     max-width: 500px;
     margin: 20px 0;
   }
+  .card-detail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+  }
 }
 
 @media (min-width: 968px) {
@@ -268,5 +297,17 @@ footer {
 
   .card p {
     font-size: 11px;
+  }
+  .card-detail {
+    padding: 10px;
+    margin: 20px;
+  }
+  .part-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    justify-content: space-between;
+    margin-left: 20px;
   }
 }
