@@ -7,12 +7,6 @@ const mainController = {
   showContact: (req, res) => {
     res.render("contacto");
   },
-  showRegitro: (req, res) => {
-    res.render("registro");
-  },
-  showLogin: (req, res) => {
-    res.render("login");
-  },
 };
 
 module.exports = mainController;
