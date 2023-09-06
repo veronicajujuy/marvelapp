@@ -1,0 +1,1103 @@
+00:07:54	Maria de los Angeles Roldan:	Hola, buenas noches
+00:08:14	Ayxa Chaverra:	¿Hoy no vamos a ver sistemas operativos? :O
+00:08:27	Ayxa Chaverra:	Ah, vale, muchas gracias
+00:08:50	Alvaro Villa:	Y miércoles 23 el examen?
+00:08:53	Lorenzo Fares:	si
+00:08:57	Ayxa Chaverra:	Reacted to "Y miércoles 23 el ex..." with 👍
+00:09:02	Agustin Rivella:	Reacted to "Y miércoles 23 el ex..." with 👍
+00:09:17	Alvaro Villa:	Camada 6 q dio el examen?
+00:09:21	Alvaro Villa:	dia*
+00:09:23	Lorenzo Fares:	Hoy vamos aver el Checkpoint que seria un repaso previo a la evaluación, y el viernes vamos a ver sistemas operativos
+00:09:27	Lorenzo Fares:	Replying to "Camada 6 q dio el ex..."
+
+23
+00:09:30	Adriana Lucia Cadavid Tabares:	muy buenas tardes para todos
+00:09:37	Cintya Olivares:	Profe, se va a necesitar VirtualBox para el examen? o podemos con el online?
+00:09:40	Kelly Nathalia García Espinel:	Profe no entiendo
+00:09:40	Karen Perez:	pasamos de miercoles a viernes el examen? entiendo bien??
+00:09:41	Alvaro Villa:	Camada 6 cuando?
+00:09:50	Sebastian Saibene:	Viernes 25 camada 6
+00:10:03	Karen Perez:	ok, ya esta grabado jaja por las dudas
+00:10:09	Natalia Valdivia:	Reacted to "Viernes 25 camada 6" with 👍
+00:10:09	Luis Ritzer:	viernes 25?
+00:10:26	Sebastian Saibene:	Perfecto
+00:10:32	Hugo Hamilton Oyola Yarlaque:	Esta bien!
+00:10:32	Mathias Santos:	Exactamente, queda mejor online porque no pude instalar el Ubuntu
+00:10:39	Andrés Pincay:	Si, todo el apoyo
+00:10:55	Alvaro Villa:	Si viernes 25 de agosto examen camada 6
+00:10:56	Karen Rodriguez Tapia:	Camada 2 Examen en Lunes 21?
+00:10:59	Katherin Johana Henao Henao:	el examen es en vivo y direecto, o nos dan cuanto tiempo pra hacerlo_
+00:11:18	Katherin Johana Henao Henao:	profe por favor me puedes explicar sobre el tiempo de duración del examen?
+00:12:46	Marisol Juárez:	Todavía no hacen el menti??
+00:12:56	Marisol Juárez:	O Kahoot?
+00:12:56	Dante Samael Fernandez Lago:	En el playground, ya viene cómo va a ser el examen
+00:14:03	Lorenzo Fares:	van a ser para marcar la respuesta o vamos a tener que escribir comandos?
+00:14:56	Manuel Giovinazzo:	Perdon llegue 10 minutos tarde, cuando seria el examen entonces?
+00:15:08	ANA MARIA ARANGO GOMEZ:	Cuantas preguntas?
+00:15:09	Facundo Laña:	cp
+00:15:11	Alvaro Villa:	si
+00:15:12	Andrea Lopez:	sipp
+00:15:15	Ayxa Chaverra:	Estaba en playground
+00:15:20	Karen Perez:	Replying to "Perdon llegue 10 min..."
+
+Viernes 25 para la CAMADA 6
+00:15:52	Ayxa Chaverra:	¿Este checkpoint se califica?
+00:16:29	Iván Caetano:	cuanto tiempo para el MO?
+00:16:34	Alvaro Villa:	Debe ser email de gmail para el examen?
+00:16:40	Gerson Hareb Herrera Ruminot:	Reacted to "Cuantas preguntas? " with 👍
+00:16:49	Angel Rojas Jimenez:	Reacted to "Viernes 25 para la C..." with 🤓
+00:17:16	Constanza Ahumada:	Reacted to "fue a comprar cigarr..." with 😂
+00:17:25	Alvaro Villa:	Gracias
+00:17:57	Dante Samael Fernandez Lago:	Ana María preguntó cuántas preguntas van a ser en el examen
+00:17:58	Ezequiel Leonardo Auge:	vero, yo el playground lo tengo con cuenta de outlook
+00:18:11	Lourdes Ezcurra:	Hay una compañera queriendo entrar, esta en sala de espera
+00:18:12	Ezequiel Leonardo Auge:	en el form se puede poner o si o si toma el Gmail ?
+00:18:17	Marisol Juárez:	Estoy en la misma situación
+00:18:20	Lorenzo Fares:	Replying to "vero, yo el playgrou..."
+
+seguro te anda bien eze, para mi la clave es unirte lógico con el mail asociado a digital
+00:18:25	Gabriel Rodríguez:	Hoy me toca ver la clase desde la universidad y la conexión es pésima. Aviso que si me desconecto es por problemas de conexión :(
+00:18:41	Gabriel Rodríguez:	Gracias!
+00:18:45	Adriana Lucia Cadavid Tabares:	si yo tengo registrado en DH un correo de  Hotmail, puedo utilizar un Gmail diferente al registrado?
+00:18:45	Ema Celena Gomez Carvajal:	Se puede saber cuentas preguntas son ?
+00:19:00	Elian Etcheimborde:	Cuando es el examen?
+00:19:10	Gerson Hareb Herrera Ruminot:	Reacted to "Se puede saber cuent..." with 👀
+00:19:13	Elian Etcheimborde:	Y por donde ingreso al mismo?
+00:19:15	Dante Samael Fernandez Lago:	Reacted to "Se puede saber cuent..." with 👀
+00:19:16	Elian Etcheimborde:	Gracias
+00:19:58	Nicolás Ledesma:	Pero máquinas virtuales no estuvimos viendo ya?
+00:20:20	Nicolás Ledesma:	Ahh ok ok
+00:20:42	maite benitez:	profe recién pude entrar tuve problemas con el wifi
+00:20:56	Dante Samael Fernandez Lago:	¿No estará en otro ZOOM?
+00:21:28	Andres Ruiz:	Como queda el material de playground? yo no tengo habilitado checkpoint
+00:21:43	Dante Samael Fernandez Lago:	Ah, todavía no, Florencia. Eso era para el examen de la siguiente semana.
+00:22:00	Nicolás Ledesma:	Están entrando en locura galopante
+00:22:19	Florencia Barbieri:	Replying to "Ah, todavía no, Flor..."
+
+gracias Dante
+00:22:30	Kelly Nathalia García Espinel:	Profe, estoy contando con mal internet
+00:22:30	Juan Pablo Biscayart:	Reacted to "Están entrando en lo..." with 😂
+00:22:31	Dante Samael Fernandez Lago:	Replying to "Ah, todavía no, Flor..."
+
+No, de nada. :)
+00:22:39	Nicolás Ledesma:	Profe yo hay veces que no puedo marcar la clase en verde en el play
+00:22:40	Karen Perez:	Reacted to "Están entrando en lo..." with 😂
+00:22:42	Kelly Nathalia García Espinel:	Me está sacando constantemente de la llamada
+00:22:43	Joel Huenupi:	Profe y como puedo validar mi asistencia?
+00:23:06	Dante Samael Fernandez Lago:	Replying to "Profe y como puedo v..."
+
+Yo lo hago con base a los correos que me llegan del ZOOM cuando me registro para las clases.
+00:23:06	Diego Berastain:	Yo solo sé que no se nada - Entren al examen como la mentalidad de "A la de Dios"
+00:23:19	Gerson Hareb Herrera Ruminot:	Reacted to "Yo solo sé que no se..." with 🙏
+00:23:46	Dante Samael Fernandez Lago:	Replying to "Profe y como puedo v..."
+
+O sea, si entras desde Playground, te manda a ZOOM y te pide registrarse, luego te llega un correo y, bueno, ahí puedes hacer tu asistencia.
+00:23:51	Dante Samael Fernandez Lago:	Replying to "Profe y como puedo v..."
+
+Espero te sirva el tip.
+00:24:46	jennifer parra jimenez:	no nada profe, con ganas de ver ese kahoot para ver si cancelamos jajajjaja
+00:24:56	Karen Perez:	Reacted to "no nada profe, con g..." with 😂
+00:24:59	Fernando Marcial Rondón Puma:	Reacted to "no nada profe, con g..." with 😂
+00:25:02	Fernando Stubing:	son buenos para las preguntas la camada 6 😁
+00:25:03	Enrique Pedernera:	Reacted to "son buenos para las ..." with 👍🏾
+00:25:11	Karen Perez:	que dios se apiade de nosotros jajja
+00:25:11	Kateryn Ramírez:	Replying to "no nada profe, con g..."
+
+x2
+00:25:14	Cintya Olivares:	Reacted to "no nada profe, con g..." with 😂
+00:25:19	Sebastian Saibene:	Reacted to "que dios se apiade d..." with ☝🏼
+00:25:20	Nicolás Ledesma:	Reacted to "son buenos para las ..." with 😆
+00:25:24	Arnie Farid Espinoza Pachas:	Reacted to "son buenos para las ..." with 😆
+00:25:26	Daniela Paez:	Se ha reaccionado a "son buenos para la..." con 😂
+00:25:26	Arnie Farid Espinoza Pachas:	Reacted to "son buenos para las ..." with 👍🏾
+00:25:27	Nicolás Ledesma:	Es que no tenemos dudas (?
+00:25:30	July Ariza:	Reacted to "son buenos para las ..." with 😂
+00:25:37	Exequiel Campos:	somos intensos los de la camada 6, jajaja
+00:25:47	Karen Perez:	Reacted to "somos intensos los d..." with 😂
+00:25:49	Angel Rojas Jimenez:	Reacted to "somos intensos los d..." with 😎
+00:25:52	Mathias Santos:	jaja
+00:25:56	Daniela Paez:	Se ha reaccionado a "somos intensos los..." con 😂
+00:26:06	Angel Rojas Jimenez:	Reacted to "que dios se apiade d..." with 🥴
+00:26:09	Alan Aguilar:	Reacted to "somos intensos los d..." with 😂
+00:26:13	Sebastian Herazo:	Replying to "somos intensos los d..."
+
+más intensos que novia fea
+00:26:26	Ayelen Mansilla:	Reacted to "somos intensos los d..." with 😂
+00:26:34	juan maldonado:	Reacted to "Es que no tenemos du..." with 🤣
+00:26:44	Kateryn Ramírez:	si o si tenemos que compartir las clases no se puede hacer en otro horario? es tremendo enrredo
+00:26:44	Arnie Farid Espinoza Pachas:	que bacan ese monitor 4:3
+00:27:35	Kateryn Ramírez:	vamos perdiendo 25 minutos
+00:27:38	Nicolás Ledesma:	Ya hemos perdido 30 minutos del checkpoint 🙁
+00:27:38	Kateryn Ramírez:	en preguntas
+00:27:43	Christian Hernández:	Reacted to "somos intensos los d..." with 😎
+00:28:10	Franco Sebastián Genre:	Mentalidad ágil ante los imprevistos.
+00:28:16	Italo Santiago Belen:	y el problema?
+00:28:19	Andrés Pincay:	Reacted to "son buenos para las ..." with 😂
+00:28:20	Natalia Valdivia:	Reacted to "Mentalidad ágil ante..." with 👍
+00:28:21	Cintya Olivares:	chicos, si nos hubiese pasado lo mismo Tambien tendriamos dudas, es la primera vez
+00:28:21	July Ariza:	Reacted to "Mentalidad ágil ante..." with 😂
+00:28:21	Jenny Carolina Cardenas Lopez:	Reacted to "Mentalidad ágil ante..." with ❤️
+00:28:23	Andrés Pincay:	Reacted to "somos intensos los d..." with 😎
+00:28:28	Karen Perez:	Entiendanos, somos de otra camada, hay cosas que nos estan afectando a nosotros Tambien. Se que es complicado para ustedes, pero para nosotros igual
+00:28:29	Andres Ruiz:	Reacted to "Mentalidad ágil ante..." with 😂
+00:28:29	July Ariza:	Reacted to "Mentalidad ágil ante..." with ❤️
+00:28:30	Karla Candelaria Ramos Buenrostro:	Reacted to "Mentalidad ágil ante..." with 😂
+00:28:40	Matías Benítez:	Reacted to "Entiendanos, somos d..." with 👏
+00:28:41	Kateryn Ramírez:	el problema se arregla al mail de student
+00:28:57	Joel Huenupi:	Profe el link
+00:29:02	Vero - Profesor Digital House:	https://kahoot.it/?pin=921371&refer_method=link
+00:29:04	juan maldonado:	no presionen a la profe pls xd
+00:29:08	Axel Olivera:	Replying to "Entiendanos, somos d..."
+
+se entiende compa.
+00:29:10	Sebastian Varela:	mucha ansiedad
+00:29:19	Matías Benítez:	AHI TIENEN EL KAHOOT!
+00:29:19	Beatriz Suyo:	todo bien
+00:29:28	Kateryn Ramírez:	nos paso si que tuvimos con otro profe y no compartíamos clase
+00:29:29	Cintya Olivares:	la competencia será ferooooz xDDDDD
+00:29:43	Aura Pasmin:	me va re lento el kahoot
+00:29:53	Lorenzo Fares:	Replying to "me va re lento el ka..."
+
+somos un montonazo jajaajjaaja
+00:29:55	Fernando Marcial Rondón Puma:	Ojala no colapse el kahoot
+00:29:56	Eduardo Medrano:	se va caer kahoot
+00:30:08	ismael saia:	a la flautaa
+00:30:10	Jenny Carolina Cardenas Lopez:	Reacted to "la competencia será ..." with 😂
+00:30:41	Kateryn Ramírez:	que seria portarse mal??
+00:30:41	Juan Pablo Biscayart:	Jajaj ese 10% es raaaaro
+00:30:44	Manuel Giovinazzo:	Reacted to "nos paso si que tuvi..." with 😂
+00:30:48	Adriana Lucia Cadavid Tabares:	es un regalo...
+00:30:50	Karen Perez:	De este momento profe no se va a olvidar jajaja
+00:30:51	Ayelen Mansilla:	Reacted to "Jajaj ese 10% es raa..." with 😂
+00:30:53	ismael saia:	esta dudoso ese 10
+00:31:00	Diego Berastain:	Replying to "que seria portarse m..."
+
+Hackear playground
+00:31:10	Karla Candelaria Ramos Buenrostro:	Reacted to "Hackear playground" with 😂
+00:31:13	July Ariza:	Reacted to "Hackear playground" with 😂
+00:31:16	elian etcheimborde:	Reacted to "Hackear playground" with 😂
+00:31:17	Flavio Taccarelli:	Reacted to "Hackear playground" with 🐤
+00:31:23	Sebastian Saibene:	Lo que paso en Code.. básicamente jaja
+00:31:23	Axel Olivera:	Parece increíble eso
+00:31:24	Iván Caetano:	tipo lo que pasó en coderhouse
+00:31:34	Gerson Hareb Herrera Ruminot:	Reacted to "tipo lo que pasó en ..." with 👀
+00:31:37	Gerson Hareb Herrera Ruminot:	CUENTEN!
+00:31:37	Nicolás Ledesma:	Replying to "tipo lo que pasó en ..."
+
+Cuenten el chisme
+00:31:38	Ayxa Chaverra:	Cuenten chismesito
+00:31:40	Carolina Ahumada:	cuente el chisme
+00:31:40	Julian Espinoza:	QUE PASO EN CODER
+00:31:42	Juan Pablo Biscayart:	Que paso en coder?????
+00:31:49	Juan Pablo Biscayart:	cuente
+00:31:55	Enrique Pedernera:	EL VIDEO DE CODERHOUSE
+00:31:56	juan bautista quiroga:	Tenia una DUDA
+00:31:56	Sebastian Herazo:	ya antojaron, cuenten el chisme
+00:31:57	Kateryn Ramírez:	bueno dejemos el chisme y tengamos la clase
+00:32:00	Juan Pablo Biscayart:	Mande link
+00:32:04	Kelly Nathalia García Espinel:	Profe mi internet está re mal, se me cae la llamada y no me deja entrar a Kahoot
+00:32:10	Manuel Giovinazzo:	paren que se enoja kateryn 😂
+00:32:14	pablo custodio:	jajajajajaajaja
+00:32:22	Natalia Valdivia:	Reacted to "paren que se enoja k..." with 😂
+00:32:23	pablo custodio:	Kateryn
+00:32:25	Alan Aguilar:	Reacted to "paren que se enoja k..." with 😂
+00:32:26	Luisa García:	Reacted to "paren que se enoja k..." with 😂
+00:32:29	Kelly Nathalia García Espinel:	Vale
+00:32:30	Juan Pablo Biscayart:	Reacted to "paren que se enoja k..." with 😂
+00:32:31	Ezequiel Leonardo Auge:	Reacted to "paren que se enoja k..." with 😂
+00:32:34	Karen Perez:	Reacted to "paren que se enoja k..." with 😂
+00:32:34	Facundo Laña:	Replying to "Mande link"
+
+https://kahoot.it/?pin=921371&refer_method=link
+00:32:35	Kelly Nathalia García Espinel:	Gracias profe
+00:32:35	Ivan Gutierrez:	Reacted to "paren que se enoja k..." with 😂
+00:32:37	Juan Manuel Nosicoski:	Traaanqui Katyy
+00:32:39	Matías Benítez:	Como funciona Kahoot?
+00:32:41	Matías Benítez:	chiste
+00:32:41	Helen Vásquez Sánchez:	Reacted to "paren que se enoja k..." with 😂
+00:32:44	Kateryn Ramírez:	Replying to "paren que se enoja k..."
+
+pierdo tiempo!!!! hay que aprovecharlo al máximo para sacar provecho
+00:32:45	Sebastian Herazo:	Replying to "paren que se enoja k..."
+
+denle una sneakers
+00:32:45	Italo Santiago Belen:	Replying to "Traaanqui Katyy"
+
+JHGFJAGJA
+00:32:47	Exequiel Campos:	esta muy divertido el chat
+00:33:27	Maria de los Angeles Roldan:	Marque cualqiera!!
+00:33:36	Lorenzo Fares:	Replying to "Marque cualqiera!!"
+
+boca no sabe marcar
+00:33:43	Exequiel Campos:	Reacted to "boca no sabe marcar" with 😂
+00:33:48	Ivan Gutierrez:	Reacted to "boca no sabe marcar" with 😂
+00:33:51	Ayelen Mansilla:	Reacted to "boca no sabe marcar" with 😂
+00:33:51	Andres Ruiz:	Replying to "Marque cualqiera!!"
+
+primero afuera
+00:33:52	Karen Perez:	Replying to "Marque cualqiera!!"
+
+@Lorenzo Fares JAJAJ un monton
+00:33:57	Lorenzo Fares:	Replying to "Marque cualqiera!!"
+
+jasjajsjasa
+00:33:59	Lorenzo Fares:	Replying to "Marque cualqiera!!"
+
+BOOOOOOCA
+00:34:06	Franco Sebastián Genre:	Reacted to "paren que se enoja k..." with 😂
+00:34:07	Agustin Rivella:	Reacted to "BOOOOOOCA" with ❤️
+00:34:08	Axel Olivera:	jaja, respondí el rojo
+00:34:08	Marisol Juárez:	Es verdad!!!
+00:34:10	Lorenzo Fares:	Replying to "Marque cualqiera!!"
+
+@Andres Ruiz sh sh bolso
+00:34:15	Italo Santiago Belen:	Replying to "Marque cualqiera!!"
+
+aguante Taieeeres
+00:34:22	Exequiel Campos:	Reacted to "aguante Taieeeres" with 😂
+00:34:32	Lorenzo Fares:	Replying to "Marque cualqiera!!"
+
+mmmm
+00:34:37	Andres Ruiz:	Replying to "Marque cualqiera!!"
+
+qiiiii nooooooooo
+00:34:45	Italo Santiago Belen:	Replying to "Marque cualqiera!!"
+
+o nooo hijo
+00:34:49	Julian Casierra:	por que dice en casi todos? no todos los SO tienen una terminal?
+00:34:52	Exequiel Campos:	Replying to "Marque cualqiera!!"
+
+@Italo Santiago Belen los talleres mecánicos
+00:35:00	Andres Ruiz:	Reacted to "@Italo Santiago Bele..." with 😂
+00:35:24	Gerson Hareb Herrera Ruminot:	waaa no tenia idea
+00:35:51	Lorenzo Fares:	vamoo juan
+00:35:51	Andres Ruiz:	me falto la musica hoy, por eso erre
+00:36:11	Ayxa Chaverra:	Reacted to "me falto la musica h..." with 😂
+00:36:38	Lorenzo Fares:	Replying to "me falto la musica h..."
+
+te canto yo amigo
+00:36:40	Marisol Juárez:	Confundí con GUI 😣
+00:36:59	Jeisson Alexander Gavilán Murcia:	Reacted to "me falto la musica h..." with 😂
+00:37:12	Karen Perez:	vamo juan
+00:37:52	Flavio Taccarelli:	Reacted to "Confundí con GUI 😣" with 😢
+00:38:27	Andrés Pincay:	Reacted to "vamo juan" with 😂
+00:38:31	Lorenzo Fares:	JASAJJSJASJAJSAJSJASJJAJSAJS
+00:38:31	Italo Santiago Belen:	Reacted to "@Juan Oh tenés que g..." with 😂
+00:38:32	Jeisson Alexander Gavilán Murcia:	Reacted to "JASAJJSJASJAJSAJSJAS..." with 😅
+00:38:33	Enrique Pedernera:	Reacted to "JASAJJSJASJAJSAJSJAS..." with 👍🏾
+00:38:35	Franco Sebastián Genre:	Dos horas apretando como loco la pantalla del Zoom. 🧑🏻‍💻
+00:38:35	Italo Santiago Belen:	KJAHGJHGJSHGH
+00:38:36	Cintya Olivares:	hey, calma ahi
+00:38:38	Arnie Farid Espinoza Pachas:	Reacted to "Confundí con GUI 😣" with 😢
+00:38:39	Carolina Ahumada:	gui es para el publico general
+00:38:42	Arnie Farid Espinoza Pachas:	Reacted to "JASAJJSJASJAJSAJSJAS..." with 😅
+00:38:44	Arnie Farid Espinoza Pachas:	Reacted to "vamo juan" with 😂
+00:38:49	Lorenzo Fares:	DAALE DALEEE JUAAAAAAN
+00:38:54	Arnie Farid Espinoza Pachas:	Reacted to "Dos horas apretando ..." with 😂
+00:38:56	Lorenzo Fares:	DALE JUAN DALE JUAN DALE DALE JUAAAN
+00:38:57	Juan Diego Rojas:	¿Soy al único que lo confunden las respuestas tan obvias?
+00:39:09	elian etcheimborde:	vamo juan
+00:39:12	Juan Diego Rojas:	:c
+00:39:15	Katherin Johana Henao Henao:	Reacted to "¿Soy al único que lo..." with 😂
+00:39:16	Italo Santiago Belen:	:c
+00:39:38	Felipe Jaimes:	???????'
+00:39:38	Nicolás Ledesma:	Edad mental: 5 años
+00:39:44	Diego Berastain:	Yo anoto los nombres y se los paso desde ahora
+00:39:59	Felipe Jaimes:	compiten en esto haha
+00:40:01	Iván Caetano:	y ahora?
+00:40:05	Cristian Telles:	Reacted to "compiten en esto hah..." with 😂
+00:40:06	Michael Andres Catalan Gaviria:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:07	Juan Manuel Nosicoski:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:08	Fernando Marcial Rondón Puma:	Reacted to "compiten en esto hah..." with 😂
+00:40:10	Arnie Farid Espinoza Pachas:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:11	Enrique Pedernera:	Coderhouse
+00:40:12	Cintya Olivares:	Reacted to "Edad mental: 5 años" with 👍🏻
+00:40:12	Arnie Farid Espinoza Pachas:	Reacted to "compiten en esto hah..." with 😂
+00:40:14	Ivan Gutierrez:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:16	Jeisson Alexander Gavilán Murcia:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:19	Jeisson Alexander Gavilán Murcia:	Reacted to "compiten en esto hah..." with 😂
+00:40:21	Natalia Valdivia:	Reacted to "Yo anoto los nombres..." with 😂
+00:40:27	Arnie Farid Espinoza Pachas:	Reacted to "Edad mental: 5 años" with 👍🏻
+00:40:38	Juan Antonio Ortiz Delgado:	Cual es el problem que se junten las dos camadas? ninguno
+00:40:38	Juan Diego Rojas:	Se les fue la mano con la competitividad del kahoot
+00:40:56	Franco Sebastián Genre:	No entiendo cuál es el problema de que haya dos camadas juntas.
+00:41:02	Lorenzo Fares:	Replying to "No entiendo cuál es ..."
+
+ninguno
+00:41:06	Jeisson Alexander Gavilán Murcia:	Reacted to "No entiendo cuál es ..." with ❤️
+00:41:09	Luisa García:	Replying to "Cual es el problem q..."
+
+Exacto, no era necesario generar incomodidad desde un principio
+00:41:10	Iván Caetano:	mutee profe mutee
+00:41:11	Andrea Julieta Peralta:	Reacted to "aguante Taieeeres" with 🥶
+00:41:13	Cintya Olivares:	Replying to "Cual es el problem q..."
+
+Ninguno, de verdad, pero hay comentarios y comentarios. Fue solo eso. En lo personal, me da igual
+00:41:14	Andres Ruiz:	no entiendo cual era el apuro si habia gente que tenia dudas
+00:41:14	Juan Diego Rojas:	Reacted to "No entiendo cuál es ..." with 👍🏻
+00:41:17	Julian Espinoza:	Yo me estaba tomando un mate y de la nada se desconocieron...
+00:41:20	Matías Yáñez:	Reacted to "No entiendo cuál es ..." with 👍🏻
+00:41:26	Christian Pommerenck:	Reacted to "Yo me estaba tomando..." with 😂
+00:41:26	Lorenzo Fares:	Replying to "Yo me estaba tomando..."
+
+en la misma
+00:41:26	Andrea Julieta Peralta:	Reacted to "boca no sabe marcar" with 🥶
+00:41:27	Ezequiel Leonardo Auge:	les re pega
+00:41:27	Matías Yáñez:	Reacted to "no entiendo cual era..." with 👍
+00:41:28	Fausto Martinez:	Reacted to "ninguno" with ❤️
+00:41:28	Karen Perez:	Reacted to "les re pega" with 😂
+00:41:29	Exequiel Campos:	Reacted to "No entiendo cuál es ..." with 👏
+00:41:29	Dante Samael Fernandez Lago:	Reacted to "Yo me estaba tomando..." with 😂
+00:41:31	Manuel Giovinazzo:	Reacted to "no entiendo cual era..." with 👍
+00:41:32	Cintya Olivares:	Reacted to "Yo me estaba tomando..." with 😂
+00:41:33	Axel Olivera:	Reacted to "Yo me estaba tomando..." with 😂
+00:41:34	Franco Lapenna:	Reacted to "no entiendo cual era..." with 👍
+00:41:34	Karen Perez:	Replying to "Yo me estaba tomando..."
+
+ruidito de mate
+00:41:35	Andres Ruiz:	Reacted to "les re pega" with 🤣
+00:41:37	Marisol Juárez:	Yo creo que no era la intención molestar pero mejor ahorrar comentarios que puedan ofender... No hacer cosas buenas que parecen malas
+00:41:37	Ivan Gutierrez:	Reacted to "Yo me estaba tomando..." with 😂
+00:41:40	Iván Caetano:	Reacted to "Yo me estaba tomando..." with 😅
+00:41:44	Andres Ruiz:	Reacted to "Yo me estaba tomando..." with 🤣
+00:41:45	Natalia Valdivia:	Reacted to "ruidito de mate" with 😂
+00:41:47	Facundo Laña:	Reacted to "Yo creo que no era l..." with 👏
+00:41:52	Juan Manuel Nosicoski:	kateryn, pedis respeto pero cuando estamos haciendo preguntas necesarias te quejas, todos pagamos la carrera , tranqui...
+00:41:54	Axel Olivera:	Replying to "Yo me estaba tomando..."
+
+El mejor comentario
+00:41:54	Alecsandra Piedrahita:	Reacted to "Yo me estaba tomando..." with 😂
+00:42:03	elian etcheimborde:	Reacted to "Yo me estaba tomando..." with 😂
+00:42:07	Italo Santiago Belen:	Reacted to " kateryn, pedis resp..." with 👏
+00:42:09	Natalia Valdivia:	kahoot
+00:42:10	juan maldonado:	Reacted to " kateryn, pedis resp..." with 🔇
+00:42:12	Arnie Farid Espinoza Pachas:	Reacted to " kateryn, pedis resp..." with 👏
+00:42:15	Enrique Pedernera:	sigamos el kahoot
+00:42:17	Arnie Farid Espinoza Pachas:	Reacted to "Yo creo que no era l..." with 👏
+00:42:18	Geraldine Rolon Araque:	Borrón y cuenta nueva
+00:42:27	Benjamín Correa:	Reacted to "Borrón y cuenta nuev..." with 👍
+00:42:29	Hugo Hamilton Oyola Yarlaque:	Reacted to " kateryn, pedis resp..." with 👍🏼
+00:42:30	Juan Diego Rojas:	Reacted to "Borrón y cuenta nuev..." with ❤️
+00:42:30	Amashta Pedroza:	Reacted to "Borrón y cuenta nuev…" with 👍
+00:42:44	Cintya Olivares:	Reacted to "Borrón y cuenta nuev..." with ❤️
+00:42:46	Hugo Hamilton Oyola Yarlaque:	Reacted to "Borrón y cuenta nuev..." with 👍
+00:42:47	Dante Samael Fernandez Lago:	Nooo, me equivoqué T__T
+00:42:47	Alberto Haruo Rojo Azuma:	Cd ..
+00:42:53	Facundo Laña:	nop
+00:42:54	Dante Samael Fernandez Lago:	maldi-tasea
+00:42:55	Gerson Hareb Herrera Ruminot:	bucha profe estaba pretando el zoom
+00:43:01	Marisol Juárez:	La regué otra vez
+00:43:04	Italo Santiago Belen:	gracias Alberto capo
+00:43:14	Facundo Laña:	pero mover a una de nivel superior es cd
+00:43:15	Christian Pommerenck:	Reacted to "Cd .." with 👏
+00:43:22	Dante Samael Fernandez Lago:	Se perdió el lugar 1 :'(
+00:43:26	Aylin Rojas Triana:	Reacted to "Borrón y cuenta nuev..." with ❤️
+00:43:29	Hugo Hamilton Oyola Yarlaque:	Pense mover de carpeta
+00:43:32	Karen Perez:	fijese que muchos respondimos cd porque asi lo hago yo en mi pc
+00:43:37	ignacio arevalo:	se me tildo la compu y me volvi a unir al link y no me deja ingresar
+00:43:39	Facundo Laña:	ah clar
+00:43:40	Facundo Laña:	ta
+00:43:41	Luisa García:	Replying to "Se perdió el lugar 1..."
+
+las de puntos dobles remontan un montón jajaja
+00:43:41	ignacio arevalo:	puede ser?
+00:43:53	Iván Caetano:	Reacted to " kateryn, pedis resp..." with 👏
+00:43:54	Nicolás Ledesma:	Replying to " kateryn, pedis resp..."
+
+nada tiene que ver la observación que hizo la compañera con las faltas de respeto que se hacen por chat, hay que saber diferenciar y ubicarse, porque justamente, todos pagamos la carrera.
+00:43:54	Facundo Laña:	la superior es la raiz
+00:43:55	Facundo Laña:	claro
+00:44:09	pablo custodio:	tranquilos camada 6 aquí en mi lugar 120 nos represento
+00:44:19	Marisol Juárez:	Replying to "fijese que muchos re..." 
+
+ Pero haces cd y el nombre de la carpeta.
+
+Si solo haces cd .. te regresa
+00:44:30	Karen Perez:	Replying to "tranquilos camada 6 ..."
+
+hola vecino
+00:44:36	Helen Vásquez Sánchez:	Replying to " kateryn, pedis resp..."
+
+Pedir chismesito de un tema en particular no son preguntas de estudio me parece ah....
+00:45:21	Gerson Hareb Herrera Ruminot:	nooooo TT-TT caí
+00:45:28	Facundo Laña:	del tupper
+00:45:30	Elias Hernandez:	remove - rmmove - mv
+00:45:33	Aura Pasmin:	ay me va muy lento, cuando me carga ya acabo el tiempo
+00:45:34	Javier ernesto moreno lloclle:	elimianr
+00:45:35	Maria de los Angeles Roldan:	Borrar
+00:45:35	Carolina Ahumada:	mis puntos u.u
+00:45:35	florencia alderete:	remove
+00:45:38	Diego Berastain:	remover
+00:45:40	Gerson Hareb Herrera Ruminot:	Reacted to "remove - rm
+move - m..." with 🙏
+00:45:44	juan bautista quiroga:	Lei remover, no renombrar
+00:45:51	Angel Rojas Jimenez:	Reacted to "tranquilos camada 6 ..." with 💪
+00:45:51	Gerson Hareb Herrera Ruminot:	Reacted to "que peacheada gerson" with 😂
+00:46:34	Iván Caetano:	ls -a
+00:46:42	Natalia Valdivia:	atributos era
+00:46:50	Jesus Jhojanson Bermejo Llanos:	Igual atributo XD
+00:46:54	Francisco Losiewicz:	Podes dar un ejemplo de flag profe? porque no recuerdo
+00:47:00	Karen Perez:	no lo habia escuchado xd
+00:47:05	florencia alderete:	Replying to "Podes dar un ejemplo..."
+
+idem
+00:47:07	Karen Andrea Niño Angulo:	Podes dar un ejemplo de flag profe? porque no recuerdox2
+00:47:09	Diego Berastain:	Replying to "Podes dar un ejemplo..."
+
+ls -a, el -a es el flag
+00:47:13	Natalia Valdivia:	con la pista que dio safé
+00:47:16	Iván Caetano:	acaba de dar xd
+00:47:16	Felipe Jaimes:	jajajajajaja, eso q
+00:47:17	Dante Samael Fernandez Lago:	Replying to "Podes dar un ejemplo..."
+
+En git, por ejemplo, "git commit -m". El -m es una flag
+00:47:23	Gerson Hareb Herrera Ruminot:	Reacted to "En git, por ejemplo,..." with 🙏
+00:47:27	florencia alderete:	Reacted to "En git, por ejemplo,..." with 🙏
+00:47:30	Francisco Losiewicz:	Replying to "Podes dar un ejemplo..."
+
+Aaaahhhh claro ya lo ubique gracias!
+00:47:30	Gerson Hareb Herrera Ruminot:	Replying to "Podes dar un ejemplo..."
+
+buenísima Dante muchas gracias
+00:47:34	Francisco Losiewicz:	Reacted to "En git, por ejemplo,..." with 🙏
+00:47:34	Cintya Olivares:	profe, el force pasaria como flag?
+00:47:37	Francisco Losiewicz:	Reacted to "ls -a, el -a es el f..." with 👍
+00:47:39	Dante Samael Fernandez Lago:	Reacted to "buenísima Dante much..." with 👍
+00:47:43	Dante Samael Fernandez Lago:	Reacted to "Aaaahhhh claro ya lo..." with 👍
+00:47:43	Helen Vásquez Sánchez:	Reacted to "ls -a, el -a es el f..." with 👍
+00:47:46	Cintya Olivares:	gracias!
+00:47:53	Dante Samael Fernandez Lago:	Replying to "Podes dar un ejemplo..."
+
+@Karen Andrea Niño Angulo
+00:48:06	Karen Andrea Niño Angulo:	Replying to "Podes dar un ejemplo..."
+
+Gracias :)))))
+00:48:10	Dante Samael Fernandez Lago:	Reacted to "Gracias :)))))" with 👍
+00:48:38	Dante Samael Fernandez Lago:	Replying to "Podes dar un ejemplo..."
+
+Por lo general, llevan un - o -- antes la palabra. Así las pueden diferenciar :)
+00:48:45	Facundo Laña:	ls (-l)
+00:48:48	Facundo Laña:	eso es un flag
+00:48:59	Fausto Martinez:	banderita
+00:49:07	Karen Perez:	como guion o atributo lo vimos
+00:49:09	Francisco Villafuerte:	Ahh ok
+00:49:21	Jesus Jhojanson Bermejo Llanos:	ls un comando
+00:49:29	Jesus Jhojanson Bermejo Llanos:	-a flag o atributo
+00:49:42	Juan Diego Rojas:	Reacted to "ls un comando" with 👍🏻
+00:49:48	Marisol Juárez:	Las flags, también llamadas switches o toggles, son un tipo de opciones que se usan exclusivamente para encender o apagar alguna característica del programa: --verbose, --quiet, --all, --force
+00:50:18	Dante Samael Fernandez Lago:	Reacted to "Las flags, también l..." with 👍
+00:50:27	Gerson Hareb Herrera Ruminot:	Reacted to "Las flags, también l..." with 👍
+00:50:27	Angélica Losada:	Reacted to "Las flags, también l..." with 👍🏽
+00:50:46	Andrea Lopez:	Se ha reaccionado a "Las flags, tambié..." con 👍
+00:50:48	Gerson Hareb Herrera Ruminot:	Replying to "Las flags, también l..."
+
+bueniiiisima mas claro todavia
+00:50:52	Sebastian Saibene:	Reacted to "Las flags, también l..." with 👍
+00:50:52	Fausto Martinez:	Reacted to "Las flags, también l..." with 👍
+00:50:56	Elizabeth Diaz Berrio:	Reacted to "Las flags, también l..." with 👍
+00:50:59	Ayxa Chaverra:	Reacted to "Las flags, también l..." with 👍
+00:51:11	Gerson Hareb Herrera Ruminot:	que genial
+00:51:13	Facundo Laña:	ok let's go
+00:51:19	Helen Vásquez Sánchez:	Genial!!!
+00:51:39	Cintya Olivares:	Reacted to "Las flags, también l..." with 👍
+00:51:46	Angélica Losada:	🤓excelente
+00:52:32	Francisco Losiewicz:	Reacted to "Las flags, también l..." with 👍
+00:53:07	Marisol Juárez:	Por buscar la info desde el cel, me sacó el Kahoot, así que perdí mi lugar 53 y tuve que entrar con otro usuario... No lo hagan 😅
+00:53:19	Facundo Laña:	Reacted to "Por buscar la info d..." with 😂
+00:53:42	Francisco Losiewicz:	Reacted to "Por buscar la info d..." with 😂
+00:53:45	Arnie Farid Espinoza Pachas:	Reacted to "Por buscar la info d..." with 😂
+00:53:57	Gerson Hareb Herrera Ruminot:	=(
+00:54:00	Jesus Jhojanson Bermejo Llanos:	T_T
+00:54:02	Dante Samael Fernandez Lago:	Replying to "Por buscar la info d..."
+
+¡Venga! Sí se recupera :)
+00:54:02	Sebastian Varela:	absoluto
+00:54:03	Ayxa Chaverra:	es una ruta absoluta
+00:54:21	Alecsandra Piedrahita:	Reacted to "Por buscar la info d..." with 😂
+00:54:38	ignacio arevalo:	para volver a conectarme me pide el pin del juego
+00:54:41	ignacio arevalo:	cual es?
+00:54:49	ignacio arevalo:	gracias!!
+00:54:51	Karen Perez:	pero el PWD nunca me mostraria una relativa o si?
+00:55:11	Andres Ruiz:	Replying to "cual es?"
+
+nacho esta en la pantalla compartida de la profe
+00:55:17	Andres Ruiz:	Replying to "cual es?"
+
+921371
+00:55:22	ignacio arevalo:	ahh
+00:55:27	ignacio arevalo:	gracias
+00:55:30	ignacio arevalo:	que boludo
+00:55:40	Andres Ruiz:	jajaj tranqui
+00:55:40	Iván Caetano:	AJSJAJSJAJAJJA
+00:55:43	Facundo Laña:	khe
+00:55:46	Julian Espinoza:	xd
+00:55:46	Ayelen Mansilla:	jajajjajaja
+00:55:46	Italo Santiago Belen:	JAHGFJAGHJAHGA
+00:55:47	Felipe Jaimes:	NJIDFHGUIES
+00:55:50	Julian Espinoza:	GRRRRR
+00:55:54	Agustin Rivella:	Jajjajaja
+00:55:54	Dante Samael Fernandez Lago:	Reacted to "GRRRRR" with 😂
+00:55:59	July Ariza:	Reacted to "GRRRRR" with 😂
+00:56:18	Gerson Hareb Herrera Ruminot:	ajajajaj yo tambien
+00:56:34	Jesus Jhojanson Bermejo Llanos:	por que se inicio el init
+00:56:35	Diego Berastain:	poquito a poquito 4to
+00:56:38	Maria de los Angeles Roldan:	Xq ya esta inicializado
+00:56:42	Marisol Juárez:	Aunque sea hubiera valido medio punto 😔
+00:56:43	Ayxa Chaverra:	Porque ya viene con la carpeta .git
+00:56:49	Dante Samael Fernandez Lago:	Porque clonas la carpeta del repositorio
+00:57:04	Karen Perez:	me entere que habia mas de una respuesta correcta tarde jaja y solo puse uno
+00:57:13	Francisco Losiewicz:	Disculpa, gui que era?
+00:57:17	Arnie Farid Espinoza Pachas:	Reacted to "me entere que habia ..." with 😂
+00:57:22	Francisco Losiewicz:	Ahhh gracias!
+00:57:33	Iván Caetano:	askdjajdasdjasjdaj
+00:58:20	Dante Samael Fernandez Lago:	pero el git add no sube tus cambios a staging
+00:58:21	Facundo Laña:	el commit te da la opción de poner el mensaje
+00:58:21	Nicolás Ledesma:	El commit es un checkpoint Arnie...
+00:58:30	Ayxa Chaverra:	Creo que no es el comando, sino el concepto
+00:58:36	Felipe Jaimes:	commit es igual a
+00:58:39	Jeisson Alexander Gavilán Murcia:	Reacted to "Creo que no es el co..." with 👍
+00:58:42	pablo custodio:	Reacted to "Creo que no es el co..." with 👍🏻
+00:58:42	Diego Berastain:	tracking or tracked = seguimiento
+00:59:12	Fausto Martinez:	Al escenario
+00:59:28	Fausto Martinez:	Y le tomamos fotografía con el commit
+01:00:04	Flavio Taccarelli:	git add toditos
+01:00:09	Flavio Taccarelli:	ninguna era correcta
+01:00:15	Benjamín Correa:	Reacted to "git add toditos" with 😂
+01:00:19	Fausto Martinez:	Reacted to "git add toditos" with 😂
+01:00:19	Dante Samael Fernandez Lago:	Reacted to "git add toditos" with 😂
+01:00:21	July Ariza:	Reacted to "git add toditos" with 😂
+01:00:22	Gerson Hareb Herrera Ruminot:	Reacted to "git add toditos" with 😂
+01:00:27	Arnie Farid Espinoza Pachas:	Reacted to "git add toditos" with 😂
+01:00:27	Karen Perez:	Reacted to "git add toditos" with 😂
+01:00:28	Karla Candelaria Ramos Buenrostro:	Reacted to "git add toditos" with 😂
+01:00:50	Alecsandra Piedrahita:	Reacted to "git add toditos" with 😂
+01:01:20	Iván Caetano:	tu tutu tu tu
+01:02:04	Axel Olivera:	que frustrante perder la racha. Duele.
+01:02:13	Diego Berastain:	Replying to "que frustrante perde..."
+
+somos 2
+01:02:14	Arnie Farid Espinoza Pachas:	Reacted to "que frustrante perde..." with 😿
+01:02:16	Flavio Taccarelli:	Replying to "que frustrante perde..."
+
+I feel ya bruh
+01:02:16	pablo custodio:	Reacted to "que frustrante perde..." with 🥲
+01:02:17	Francisco Villafuerte:	ahh
+01:02:21	pablo custodio:	Replying to "que frustrante perde..."
+
+duele una vida
+01:02:24	Francisco Villafuerte:	Había trampa
+01:02:25	Francisco Villafuerte:	jajaja
+01:03:08	Iván Caetano:	a la rom
+01:03:08	Gerson Hareb Herrera Ruminot:	Reacted to "que frustrante perde..." with 😿
+01:03:19	Gerson Hareb Herrera Ruminot:	la rom TT-TT
+01:03:30	Fausto Martinez:	Solid state drive
+01:03:36	Francisco Villafuerte:	🙃
+01:03:37	Iván Caetano:	el solido
+01:04:09	Julian Espinoza:	PRRR
+01:04:10	Facundo Laña:	farid alias anuel
+01:04:26	Cintya Olivares:	igual y no competimos xD
+01:04:36	Arnie Farid Espinoza Pachas:	Reacted to "farid alias anuel" with 😂
+01:04:38	Diego Berastain:	el que inventó la arquitectura de computadoras
+01:04:47	Arnie Farid Espinoza Pachas:	Reacted to "el que inventó la ar..." with ❤️
+01:04:56	Lorenzo Fares:	la arquitectura de computadora que se usa hasta el dia de hoy
+01:05:01	Iván Caetano:	Reacted to "farid alias anuel" with 😅
+01:05:07	Andres Ruiz:	un guitarrista
+01:05:09	Gerson Hareb Herrera Ruminot:	aaahh perfecto
+01:05:10	Lorenzo Fares:	y registros también?
+01:05:16	Arnie Farid Espinoza Pachas:	Replying to "la arquitectura de c..."
+
+hasta que venga la del Schrondinger
+01:05:21	Javier ernesto moreno lloclle:	no era la de alan Turing?
+01:05:43	Enrique Pedernera:	Replying to "la arquitectura de c..."
+
+y su gato
+01:05:51	Arnie Farid Espinoza Pachas:	Replying to "no era la de alan Tu..."
+
+el se imagino una computadora hipoteticamente omnipotente
+01:05:51	Axel Olivera:	Replying to "no era la de alan Tu..."
+
+fue posterior
+01:05:59	Dante Samael Fernandez Lago:	Replying to "no era la de alan Tu..."
+
+No, Alan fue después.
+01:06:14	Fausto Martinez:	Replying to "no era la de alan Tu..."
+
+Fue pionero de la IA
+01:06:19	Gerson Hareb Herrera Ruminot:	Replying to "no era la de alan Tu..."
+
+El Turing no fue el de la maquina enigma?
+01:06:23	Dante Samael Fernandez Lago:	Replying to "no era la de alan Tu..."
+
+Ajá
+01:06:24	Javier ernesto moreno lloclle:	Replying to "no era la de alan Tu..."
+
+si es
+01:06:25	Matías Yáñez:	Replying to "no era la de alan Tu..."
+
+cristopher
+01:06:28	Facundo Laña:	prrr prrr
+01:06:55	Benjamín Correa:	Replying to "no era la de alan Tu..."
+
+Mentira, se llama Doctor Strange
+01:07:00	Fausto Martinez:	Reacted to "Mentira, se llama Do..." with 😂
+01:07:07	Sebastian Saibene:	Chau racha (:
+01:07:13	Axel Olivera:	No hagas mas "prr" Facu, jajaja
+01:07:13	pablo custodio:	Reacted to "Chau racha (:" with 🥲
+01:07:21	pablo custodio:	Reacted to "No hagas mas "prr" F..." with 😂
+01:07:23	Iván Caetano:	que cambio de frente
+01:07:31	Sara Valencia:	Reacted to "No hagas mas "prr" F..." with 😂
+01:07:38	Arnie Farid Espinoza Pachas:	Reacted to "No hagas mas "prr" F..." with 😂
+01:07:44	Lorenzo Fares:	pensé que el kernel era su nucleo
+01:08:00	Sara Valencia:	Next
+01:08:04	Andres Ruiz:	que poca comprensión lectora estoy manejando 😝
+01:08:06	Ivan Gutierrez:	Reacted to "No hagas mas "prr" F..." with 😂
+01:08:09	Nicolás Ledesma:	Yo soy licenciado en matemática <3
+01:08:13	Fausto Martinez:	Reacted to "Yo soy licenciado en..." with ❤️
+01:08:18	Juan Oh:	Replying to "pensé que el kernel ..."
+
+literalmente kernel es nucleo en aleman si no me equivoco
+01:08:18	Jeisson Alexander Gavilán Murcia:	Reacted to "Yo soy licenciado en..." with ❤️
+01:08:21	Nicolás Ledesma:	Reacted to "Yo soy licenciado en..." with ❤️
+01:08:22	Arnie Farid Espinoza Pachas:	Reacted to "Yo soy licenciado en..." with ❤️
+01:08:26	Karen Perez:	me costo responder esta, porque mezcle algunas cosas, necesito repasar bastante jaja
+01:08:27	Lorenzo Fares:	Replying to "pensé que el kernel ..."
+
+AAAAAAAAA
+01:08:27	Gerson Hareb Herrera Ruminot:	bueniiiisima!
+01:08:31	July Ariza:	Reacted to "Yo soy licenciado en..." with ❤️
+01:08:32	Fausto Martinez:	Replying to "Yo soy licenciado en..."
+
+El lenguaje de Dios
+01:08:33	Angel Rojas Jimenez:	Reacted to "literalmente kernel ..." with 🤓
+01:08:36	Angel Rojas Jimenez:	Replying to "pensé que el kernel ..."
+
+yes
+01:08:45	Angel Rojas Jimenez:	Replying to "pensé que el kernel ..."
+
+Ja, sehr gut
+01:08:47	Arnie Farid Espinoza Pachas:	Reacted to "El lenguaje de Dios" with ❤️
+01:09:07	Sara Valencia:	Reacted to "Yo soy licenciado en..." with ❤️
+01:09:08	Dante Samael Fernandez Lago:	Replying to "me costo responder e..."
+
+¡Venga! Sí pasamos el examen :)
+01:09:16	jennifer parra jimenez:	Replying to "Yo soy licenciado ..."
+
+no me quieres dar unas clacesitas
+01:09:19	Andres Ruiz:	Replying to "pensé que el kernel ..."
+
+@Juan Oh te quiero en mi equipo
+01:09:28	Arnie Farid Espinoza Pachas:	Reacted to "literalmente kernel ..." with 🤓
+01:09:30	Nicolás Ledesma:	Reacted to "El lenguaje de Dios" with ❤️
+01:09:32	jennifer parra jimenez:	Replying to "Yo soy licenciado ..."
+
+clases**}
+01:09:41	Nicolás Ledesma:	Replying to "Yo soy licenciado en..."
+
+Jajaja, por supuesto.
+01:09:54	Sebastian Varela:	la redaccion de la pregunta es media confusa y confunde
+01:09:57	Gerson Hareb Herrera Ruminot:	Reacted to "literalmente kernel ..." with 👀
+01:10:01	Dante Samael Fernandez Lago:	Replying to "Yo soy licenciado en..."
+
+Unas clases de mates discretas, ufff
+01:10:09	Gerson Hareb Herrera Ruminot:	Replying to "pensé que el kernel ..."
+
+Buen dato Juan!!!
+01:10:16	Arnie Farid Espinoza Pachas:	Replying to "Yo soy licenciado en..."
+
+uculento las mates discretas
+01:10:35	Arnie Farid Espinoza Pachas:	Replying to "pensé que el kernel ..."
+
+@Andres Ruiz ya es mio papu, el juan me ama🥵
+01:10:36	Cintya Olivares:	Reacted to "Yo soy licenciado en..." with ❤️
+01:10:37	Eduardo Medrano:	Ubuntu, Kali,
+01:10:42	Juan Oh:	Replying to "pensé que el kernel ..."
+
+faaaaak
+01:10:43	Eduardo Medrano:	Linuxlite
+01:10:46	Javier ernesto moreno lloclle:	uwuntu
+01:10:47	Angel Rojas Jimenez:	Reacted to "faaaaak" with 😂
+01:10:51	Arnie Farid Espinoza Pachas:	Reacted to "faaaaak" with 😂
+01:10:51	Eduardo Medrano:	kubuntu
+01:10:51	Juan Oh:	Replying to "pensé que el kernel ..."
+
+ya estoy muy Viejo para eso :(
+01:10:52	Fausto Martinez:	Replying to "uwuntu"
+
+uwu
+01:10:56	Eduardo Medrano:	readhat
+01:10:56	Natalia Valdivia:	Reacted to "faaaaak" with 😂
+01:10:57	Arnie Farid Espinoza Pachas:	Reacted to "ya estoy muy Viejo p..." with 😂
+01:10:59	Angel Rojas Jimenez:	Reacted to "ya estoy muy Viejo p..." with 😂
+01:10:59	Juan Oh:	Reacted to "ya estoy muy Viejo p..." with 😂
+01:11:04	Arnie Farid Espinoza Pachas:	Reacted to "ya estoy muy Viejo p..." with 🥵
+01:11:05	Eduardo Medrano:	centOS
+01:11:17	Eduardo Medrano:	Mandrake
+01:11:21	Arnie Farid Espinoza Pachas:	Linux Mint
+01:11:23	Eduardo Medrano:	etc...
+01:11:35	Axel Olivera:	Es como la confusión de darle una connotación negativa al nombre "hacker".
+01:11:44	Arnie Farid Espinoza Pachas:	Reacted to "Es como la confusión..." with 👏
+01:11:49	Axel Olivera:	en realidad son los crackers
+01:11:52	Ezequiel Leonardo Auge:	yo pensé que el kernel de Linux era unix
+01:11:56	Arnie Farid Espinoza Pachas:	Replying to "Es como la confusión..."
+
+Exacto lo aduacuado a lo malo es cracker
+01:12:10	Arnie Farid Espinoza Pachas:	Replying to "yo pensé que el kern..."
+
+se basa en unix
+01:12:26	Flavio Taccarelli:	Replying to "uwuntu"
+
+también lesbian, distro de debian
+01:12:45	Andres Ruiz:	Reacted to "@Andres Ruiz ya es m..." with 😂
+01:12:47	Javier ernesto moreno lloclle:	Replying to "uwuntu"
+
+xd
+01:12:48	Fausto Martinez:	Reacted to "también lesbian, dis..." with 😂
+01:12:50	Andres Ruiz:	Reacted to "faaaaak" with 😂
+01:12:59	Andres Ruiz:	Replying to "pensé que el kernel ..."
+
+jajajajajajaa
+01:13:13	Arnie Farid Espinoza Pachas:	Reacted to "también lesbian, dis..." with 😂
+01:13:40	Aura Pasmin:	se me cerrooo
+01:13:41	Aura Pasmin:	:C
+01:14:32	Marisol Juárez:	Replying to ":C" 
+
+ Bienvenida 😣
+01:14:58	Axel Olivera:	hora de la remontada
+01:14:59	Ana Gordillo:	Feliz noche, ingrese tarde
+01:15:26	Iván Caetano:	la velocidad es
+01:15:27	Carlos Maldonado:	Falso pero afecta a la velocidad
+01:15:28	Iván Caetano:	la velocidad
+01:15:33	Facundo Laña:	br br
+01:15:33	Fausto Martinez:	Km
+01:15:39	Andres Ruiz:	Reacted to "br br" with 😂
+01:15:41	Daniela Lotero:	Cuando es el examen, lunes o miércoles?
+01:15:43	Arnie Farid Espinoza Pachas:	Reacted to "br br" with 😂
+01:15:49	Michael Andres Catalan Gaviria:	Reacted to "br br" with 😂
+01:15:53	Gian Paucar Cortez:	si deja q explique la profe porfa
+01:15:58	pablo custodio:	Reacted to "hora de la remontada" with 😮‍💨
+01:15:58	Franco Lapenna:	Reacted to "br br" with 😂
+01:16:04	Ayxa Chaverra:	Replying to "Cuando es el examen,..."
+
+Camada 2, el lunes y camada 6, el viernes
+01:16:16	Daniela Lotero:	Replying to "Cuando es el examen,..." 
+
+ Gracias!
+01:16:22	Karen Perez:	jajja menos mal que no estamos en un aula presencial chicos jajaja todos sin pelo terminamos con esta situacion tan tensa, nos calmamos?
+01:16:37	Natalia Valdivia:	Reacted to "jajja menos mal que ..." with 👏
+01:16:38	Nicolás Ledesma:	Replying to "jajja menos mal que ..."
+
+Brrrrrrrrr
+01:16:41	Arnie Farid Espinoza Pachas:	Reacted to "jajja menos mal que ..." with 👏
+01:16:43	Italo Santiago Belen:	Replying to "jajja menos mal que ..."
+
+brrrr
+01:16:44	Juan Manuel Nosicoski:	Reacted to "Brrrrrrrrr" with 😂
+01:16:44	Andres Ruiz:	Reacted to "Brrrrrrrrr" with 😂
+01:16:44	Arnie Farid Espinoza Pachas:	Replying to "jajja menos mal que ..."
+
+brrrrrrrr
+01:16:46	Karen Perez:	Replying to "jajja menos mal que ..."
+
+@Nicolás Ledesma coincido jaja
+01:16:48	Exequiel Campos:	como está Anuel eh, a full
+01:16:49	Arnie Farid Espinoza Pachas:	Reacted to "Brrrrrrrrr" with 😂
+01:16:53	Edgardo Silva:	Reacted to "Brrrrrrrrr" with 😂
+01:16:55	Manuel Giovinazzo:	Reacted to "si deja q explique l..." with 👍
+01:16:56	Arnie Farid Espinoza Pachas:	Reacted to "@Nicolás Ledesma coi..." with 😂
+01:16:57	Sara Valencia:	Reacted to "como está Anuel eh, ..." with 😂
+01:16:59	Edgardo Silva:	Reacted to "jajja menos mal que ..." with 👏
+01:17:02	July Ariza:	Reacted to "@Nicolás Ledesma coi..." with 😂
+01:17:02	juan bautista quiroga:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:02	Italo Santiago Belen:	una luz
+01:17:06	Fausto Martinez:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:07	pablo custodio:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:08	Javier Abraham Mata Lopez:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:13	July Ariza:	Reacted to "Brrrrrrrrr" with 😂
+01:17:17	Arnie Farid Espinoza Pachas:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:17	Juan Diego Rojas:	Replying to "como está Anuel eh, ..."
+
+se la pasó de hierba el mate
+01:17:18	Juan Manuel Nosicoski:	Reacted to "una luz" with 😂
+01:17:21	Dante Samael Fernandez Lago:	Reacted to "jajja menos mal que ..." with 👏
+01:17:25	Iván Caetano:	mas que anuel, seria cosculluela
+01:17:27	Alan Aguilar:	Replying to "como está Anuel eh, ..."
+
+XD
+01:17:33	Franco Lapenna:	Reacted to "como está Anuel eh, ..." with 😂
+01:17:34	Arnie Farid Espinoza Pachas:	Reacted to "mas que anuel, seria..." with 🥵
+01:17:36	Nicolás Ledesma:	Reacted to "como está Anuel eh, ..." with 😆
+01:17:38	Italo Santiago Belen:	Reacted to "mas que anuel, seria..." with 🥵
+01:17:39	Dante Samael Fernandez Lago:	Reacted to "Brrrrrrrrr" with 😂
+01:17:44	Axel Olivera:	Queda prohibido el Prrr de por vida, jaja
+01:17:49	florencia alderete:	Reacted to "Queda prohibido el P..." with 😂
+01:17:52	Arnie Farid Espinoza Pachas:	Replying to "Queda prohibido el P..."
+
+brrrrr
+01:17:55	Fausto Martinez:	di
+01:17:57	Carolina Ahumada:	si
+01:17:57	Lorenzo Fares:	igual cualquiera se hace el vivo virtual
+01:17:58	Sebastian Saibene:	Si!
+01:18:00	Karen Perez:	sisis
+01:18:02	Gerson Hareb Herrera Ruminot:	si profesora!
+01:18:03	Andres Ruiz:	Reacted to "brrrrr" with 😂
+01:18:09	Francisco Losiewicz:	Replying to "igual cualquiera se ..."
+
+Completamente
+01:18:11	Angélica Losada:	Reacted to "igual cualquiera se ..." with 👍🏽
+01:18:19	Sara Valencia:	Reacted to "igual cualquiera se ..." with 👍
+01:18:24	Arnie Farid Espinoza Pachas:	Reacted to "igual cualquiera se ..." with 👍🏽
+01:18:26	Arnie Farid Espinoza Pachas:	Reacted to "igual cualquiera se ..." with 👍
+01:18:31	Edgardo Silva:	Reacted to "igual cualquiera se ..." with 👍
+01:18:37	elian etcheimborde:	Reacted to "igual cualquiera se ..." with 😂
+01:19:26	Andres Ruiz:	esta fresquito
+01:19:31	Karen Perez:	frescos compas
+01:20:12	Jesus Jhojanson Bermejo Llanos:	T_T
+01:20:30	Gerson Hareb Herrera Ruminot:	😭
+01:21:02	pablo custodio:	las que no tenían almacenamiento no??
+01:21:05	Gerson Hareb Herrera Ruminot:	los servidores?
+01:21:07	Nicolás Ledesma:	La de Alan Turing 😆
+01:21:08	Carlos Maldonado:	Una placa de Arduino?
+01:21:09	Cristian Telles:	Reacted to "igual cualquiera se ..." with 👍🏽
+01:21:13	Natalia Valdivia:	Reacted to "La de Alan Turing 😆" with 😂
+01:21:17	Gian Paucar Cortez:	tarjetas
+01:21:20	Arnie Farid Espinoza Pachas:	Reacted to "La de Alan Turing 😆" with 😂
+01:21:25	Joel Huenupi:	La calculadora?
+01:21:26	Adriana Lucia Cadavid Tabares:	eniac
+01:21:29	Francisco Parra:	Los cohetes de la nasa}}
+01:21:32	Diego Berastain:	me pregunto que SO usaban las máquinas del Apollo
+01:21:51	Francisco Parra:	usaban las mallas de polos
+01:21:56	juan bautista quiroga:	Replying to "me pregunto que SO u..."
+
+Windows 10 sin licencia
+01:22:04	July Ariza:	Reacted to "Windows 10 sin licen..." with 😂
+01:22:06	Fausto Martinez:	Reacted to "Windows 10 sin licen..." with 😂
+01:22:07	Arnie Farid Espinoza Pachas:	Reacted to "Windows 10 sin licen..." with 😂
+01:22:08	Andrea Lopez:	Se ha reaccionado a "Windows 10 sin lic..." con 😂
+01:22:15	Diego Berastain:	Replying to "me pregunto que SO u..."
+
+Pantallazo azul
+01:22:26	Francisco Parra:	muy complejo de configurar eran mujeres que tejían las mallas
+01:22:37	Michael Andres Catalan Gaviria:	Reacted to "Windows 10 sin licen..." with 😂
+01:23:09	Joel Huenupi:	Pase del 128 al 87, Good job
+01:23:21	Karen Perez:	Reacted to "Pase del 128 al 87, ..." with ❤️
+01:23:27	Axel Olivera:	Reacted to "Pase del 128 al 87, ..." with 👏
+01:23:27	Gerson Hareb Herrera Ruminot:	Reacted to "Pase del 128 al 87, ..." with ❤️
+01:23:32	Ivan Gutierrez:	Reacted to "Pase del 128 al 87, ..." with 👏
+01:23:48	Ayxa Chaverra:	¡Felicitaciones! :D
+01:23:55	Gerson Hareb Herrera Ruminot:	muy bien!!
+01:23:55	Andrés Pincay:	👏
+01:23:56	Axel Olivera:	goog men.
+01:23:56	Sebastian Saibene:	👏🏼
+01:23:58	Iván Caetano:	prrrum
+01:24:04	Axel Olivera:	*good
+01:24:05	Nicolás Ledesma:	Brrrr
+01:24:05	Andres Ruiz:	prrrr
+01:24:07	Karen Perez:	good job !!!
+01:24:08	Maria de los Angeles Roldan:	👏🏻
+01:24:08	Adriana Lucia Cadavid Tabares:	felicitaciones
+01:24:17	elian etcheimborde:	brrr
+01:24:23	Juan Manuel Nosicoski:	Brrrrestoy cansado jefe
+01:24:23	Enrique Pedernera:	felicitaciones Farid!!
+01:24:25	Arnie Farid Espinoza Pachas:	brrrrrr
+01:24:32	Juan Oh:	felicitaciones
+01:24:36	Juan Oh:	👏
+01:24:41	Arnie Farid Espinoza Pachas:	Reacted to "presto atención la c..." with ❤️
+01:24:56	Andres Ruiz:	Replying to "brrrrrr"
+
+ah era con b jajaja brrr
+01:25:01	Italo Santiago Belen:	Reacted to "presto atención la c..." with ❤️
+01:25:02	Adriana Lucia Cadavid Tabares:	Reacted to "presto atención la c..." with 👍
+01:25:06	Ivan Gutierrez:	Reacted to "presto atención la c..." with 👍
+01:25:08	Iván Caetano:	<br>
+01:25:13	Andres Ruiz:	Reacted to "<br>" with 😂
+01:25:13	Vero - Profesor Digital House:	https://drive.google.com/file/d/1eKXVQNr70AFbfDy7mxNn7TYDCZ5fVBW0/view?usp=sharing
+01:25:19	Italo Santiago Belen:	Reacted to "presto atención la c..." with 👍
+01:25:25	Axel Olivera:	<brrr>
+01:25:33	florencia alderete:	Reacted to "<brrr>" with 😂
+01:25:43	Elias Hernandez:	para que se entretengan después de clases con lo de Coderhousehttps://twitter.com/porqueTTarg/status/1691638525660184672
+01:25:53	Francisco Parra:	Replying to "me pregunto que SO u..."
+
+https://en.wikipedia.org/wiki/Magnetic-core_memory
+01:25:54	Karen Perez:	Reacted to "me pregunto que SO u..." with 😂
+01:25:57	Arnie Farid Espinoza Pachas:	Reacted to "<brrr>" with 😂
+01:26:11	Gerson Hareb Herrera Ruminot:	Reacted to "https://en.wikipedia..." with 👀
+01:26:50	Arnie Farid Espinoza Pachas:	puede pasar ese archive porfa
+01:26:53	Felipe Jaimes:	l
+01:26:55	Felipe Jaimes:	1231
+01:26:57	Hugo Hamilton Oyola Yarlaque:	Reacted to "para que se entreten..." with 😅
+01:27:14	Karen Perez:	Replying to "https://drive.google..."
+
+@Arnie Farid Espinoza Pachas aca esta
+01:27:15	Kateryn Ramírez:	https://drive.google.com/file/d/1eKXVQNr70AFbfDy7mxNn7TYDCZ5fVBW0/view?usp=sharing
+01:27:57	Arnie Farid Espinoza Pachas:	Replying to "https://drive.google..."
+
+gracias, donde se encontraba el archive inicialmente
+01:28:02	Karen Rodriguez Tapia:	Pueden compartir el link una vez mas
+01:28:12	Ayxa Chaverra:	Replying to "Pueden compartir el ..."
+
+https://drive.google.com/file/d/1eKXVQNr70AFbfDy7mxNn7TYDCZ5fVBW0/view?usp=sharing
+01:28:14	elian etcheimborde:	https://drive.google.com/file/d/1eKXVQNr70AFbfDy7mxNn7TYDCZ5fVBW0/view
+01:28:15	Vero - Profesor Digital House:	https://drive.google.com/file/d/1eKXVQNr70AFbfDy7mxNn7TYDCZ5fVBW0/view?usp=sharing
+01:28:17	Iván Caetano:	ese comando history entraria en la historia de comandos?
+01:28:25	Karen Rodriguez Tapia:	Gracias!!
+01:28:35	Karen Perez:	dividanos en camadas profe jaja
+01:28:46	Felipe Jaimes:	Replying to "dividanos en camadas..."
+
+?
+01:28:52	Andres Ruiz:	seeeeeee
+01:28:55	Angélica Losada:	jajajaj
+01:29:08	Exequiel Campos:	Reacted to "dividanos en camadas..." with 😂
+01:29:14	Andrea Lopez:	Se ha reaccionado a "dividanos en camad..." con 😂
+01:29:15	Helen Vásquez Sánchez:	Qué denso esto
+01:29:19	Fausto Martinez:	Reacted to "Qué denso esto" with 😂
+01:29:21	Agustin Rivella:	Hay que aprender a convivir entre todos 😄
+01:29:21	Diego Berastain:	yo estoy solito
+01:29:24	Nicolás Ledesma:	De metodología si
+01:29:28	Helen Vásquez Sánchez:	Reacted to "Hay que aprender a c..." with 👍
+01:29:32	Francisco Villafuerte:	🙁
+01:29:36	Elizabeth Diaz Berrio:	si
+01:29:44	Karen Perez:	1 a 11
+01:29:58	Juan Manuel Nosicoski:	Camada 6 desde el 1 al 11
+01:30:04	Fausto Martinez:	di
+01:30:14	Francisco Villafuerte:	No la compliquemos a la profe
+01:30:15	Alvaro Villa:	Reacted to "Camada 6 desde el 1 ..." with 👍
+01:30:36	Ezequiel Leonardo Auge:	espíritu colaborativo -10
+01:30:39	juan maldonado:	Reacted to "No la compliquemos a..." with 👍
+01:30:40	Helen Vásquez Sánchez:	innecesario
+01:30:43	Diego Berastain:	según el excel hay 8 equipos en la camada 2
+01:30:44	Ayxa Chaverra:	Reacted to "No la compliquemos a..." with 👍
+01:30:45	Helen Vásquez Sánchez:	la verdad
+01:30:48	Arnie Farid Espinoza Pachas:	Reacted to "espíritu colaborativ..." with 🥸
+01:30:53	Arnie Farid Espinoza Pachas:	Replying to "espíritu colaborativ..."
+
+sad bro
+01:30:53	Angélica Losada:	Reacted to "espíritu colaborativ..." with 👻
+01:30:56	Julian Casierra:	full innecesario esto concuerdo
+01:31:01	Diego Berastain:	Reacted to "No la compliquemos a..." with 👍
+01:31:02	Ayxa Chaverra:	Reacted to "full innecesario est..." with 👍
+01:31:03	Hugo Hamilton Oyola Yarlaque:	Reacted to "full innecesario est..." with 👍
+01:31:05	Agustin Rivella:	Reacted to "full innecesario est..." with 👍
+01:31:05	Luisa García:	Reacted to "full innecesario est..." with 👍
+01:31:05	Alexandra Castrillon Valencia:	Profe no se complique, debemos aprender a trabajar en cualquier entorno
+01:31:10	Elizabeth Diaz Berrio:	deje eso asi
+01:31:10	Juan Diego Rojas:	sí profe, muy innecesario
+01:31:11	Jesus Jhojanson Bermejo Llanos:	si ahí 8
+01:31:13	Diego Berastain:	Mejor haga ruleta rusa y ya
+01:31:13	Alvaro Villa:	si
+01:31:14	Agustin Rivella:	Reacted to "Profe no se compliqu..." with 👍
+01:31:16	Cintya Olivares:	Reacted to "Profe no se compliqu..." with 👍
+01:31:16	Sara Valencia:	Reacted to "No la compliquemos a..." with 👍
+01:31:16	Alvaro Villa:	aleatrorio
+01:31:17	jennifer parra jimenez:	c2 8
+01:31:19	Julian Casierra:	Reacted to "Profe no se compliqu..." with 👍
+01:31:23	Francisco Villafuerte:	Reacted to "Profe no se compliqu..." with 👍🏻
+01:31:25	Iván Caetano:	a poco la gente sabe quienes son de la camada 6 o 2?
+01:31:28	Juan Diego Rojas:	En cualquier equipo, adaptarnos al cambio es crecer
+01:31:29	Elizabeth Diaz Berrio:	profe tranquila
+01:31:29	Franco Sebastián Genre:	¿Puede repetir lo de los números de salas? Justo fui al baño.
+01:31:32	Fausto Martinez:	Habilidades blandas recuerden
+01:31:35	Iván Caetano:	de mi camada identifico a 4 o 5
+01:31:35	Ayxa Chaverra:	Mejor aleatorio
+01:31:40	Agustin Rivella:	Aleatorio
+01:31:43	ANA MARIA ARANGO GOMEZ:	Noooo
+01:31:45	Hugo Hamilton Oyola Yarlaque:	Aleatorio mejor
+01:31:47	Italo Santiago Belen:	<br>
+01:31:51	Andres Ruiz:	Reacted to "<br>" with 🤣
+01:31:52	Arnie Farid Espinoza Pachas:	Replying to "Noooo"
+
+no hay de otra
+01:31:53	Agustin Rivella:	Reacted to "<br>" with 🤣
+01:31:53	Francisco Villafuerte:	Todo se resume en brr
+01:31:54	Fausto Martinez:	Reacted to "<br>" with 🤣
+01:31:55	Arnie Farid Espinoza Pachas:	Reacted to "<br>" with 🤣
+01:31:55	Geraldine Rolon Araque:	Si, adaptación al cambio ñ.ñ
+01:31:55	Javier Abraham Mata Lopez:	Reacted to "<br>" with 🤣
+01:31:56	Jeisson Alexander Gavilán Murcia:	Reacted to "<br>" with 🤣
+01:31:56	Cristian Telles:	Reacted to "<br>" with 🤣
+01:31:58	Andrea Lopez:	Se ha reaccionado a "<br>" con 🤣
+01:31:58	elian etcheimborde:	brr
+01:32:08	Italo Santiago Belen:	Reacted to "<br>" with 🤣
+01:32:11	Dante Samael Fernandez Lago:	¿el entregable es por sala?
+01:32:14	Arnie Farid Espinoza Pachas:	Replying to "<br>"
+
+*agrega un salto de linea epicamente*
+01:32:16	Hugo Hamilton Oyola Yarlaque:	Reacted to "Todo se resume en br..." with 😂
+01:32:20	Arnie Farid Espinoza Pachas:	Reacted to "Todo se resume en br..." with 😂
+01:32:20	Fausto Martinez:	Reacted to "Si, adaptación al ca..." with ❤️
+01:32:28	Adriana Lucia Cadavid Tabares:	como se envía?
+01:32:29	Dante Samael Fernandez Lago:	Vale, gracias.
+01:32:32	Katherin Johana Henao Henao:	¿cuánto porcentaje de nota tiene?
+01:32:36	Francisco Parra:	Reacted to "<br>" with 🤣
+01:32:40	Karen Andrea Niño Angulo:	No entendí, ósea es individual pero lo hacemos en grupo?
+01:32:51	Karen Andrea Niño Angulo:	Ahhh ok
+01:32:58	Fausto Martinez:	Reacted to "No entendí, ósea es ..." with 👍
+01:32:58	Arnie Farid Espinoza Pachas:	Reacted to "No entendí, ósea es ..." with 🥸
+01:33:04	Arnie Farid Espinoza Pachas:	Reacted to "No entendí, ósea es ..." with 👍
+01:59:06	Juan Antonio Ortiz Delgado:	donde lo subimos?
+01:59:14	Franco Lapenna:	sii
+01:59:15	Karen Perez:	ahora nos dice donde subirlo
+01:59:21	Vero - Profesor Digital House:	https://forms.gle/XH4R62Up1Lys7jXY7
+01:59:22	Gerson Hareb Herrera Ruminot:	se logró profesora
+01:59:24	Joel Huenupi:	a nada de terminar porfe
+01:59:55	Jesus Jhojanson Bermejo Llanos:	Donde le enviar
+02:00:05	Vero - Profesor Digital House:	https://forms.gle/XH4R62Up1Lys7jXY7
+02:00:13	Gerson Hareb Herrera Ruminot:	Reacted to "https://forms.gle/XH..." with 👍
+02:00:16	Agustin Rivella:	Reacted to "https://forms.gle/XH..." with 👍
+02:00:24	Jesus Jhojanson Bermejo Llanos:	Gracias
+02:00:30	Inés Tosi:	Reacted to "https://forms.gle/XH..." with 👍
+02:00:31	Katherin Johana Henao Henao:	Profe el comando mv no me sirve para renombrar carpetas
+02:00:56	Dante Samael Fernandez Lago:	mv nombre-anterior nombre-después
+02:00:56	Julian Casierra:	es mv Pedro Pedro2
+02:00:59	Jesus Jhojanson Bermejo Llanos:	Muchas gracias
+02:01:10	Katherin Johana Henao Henao:	no me dio con ese profe
+02:01:18	Jesus Jhojanson Bermejo Llanos:	Hasta luego profe
+02:01:25	ANA MARIA ARANGO GOMEZ:	Profe
+02:01:26	Carolina Ahumada:	buenas noches
+02:01:26	Ayxa Chaverra:	Tal vez estás intentando cambiar la carpeta en la que estás?
+02:01:30	ANA MARIA ARANGO GOMEZ:	Puedo decirle algo
+02:01:37	Franco Sebastián Genre:	Buenas noches.
+02:01:37	Andrea Lopez:	buenas nnoches!
+02:01:39	Inés Tosi:	gracias profe!
+02:01:41	Adriana Diaz Carvajal:	Muchas gracias
+02:01:43	Dante Samael Fernandez Lago:	Hasta luego.
+02:01:46	Dante Samael Fernandez Lago:	Buenas noches.
+02:01:51	Cristian Antony Crespin Diaz:	hasta luego
+02:01:52	Ermes Alcides Pino Nowacky:	Gracias profe, feliz noche
+02:01:53	July Ariza:	Buenas noches profe
+02:01:58	Sofia Carvajal Gonzalez:	Buenas noches
+02:01:59	Gerson Hareb Herrera Ruminot:	muchas gracias profesora que tenga buenas noches! igual buenas noches a todos!
+02:01:59	Adriana Lucia Cadavid Tabares:	profe, muchas gracias y feliz noche para todos...
+02:02:08	juan maldonado:	Gracias, hasta el lunes :)
+02:02:08	Mendel jhosep Guzman Espinoza:	Hasta luego .
+02:02:22	Iván Caetano:	yo estuve en tu grupo y tu no dijiste nada tampoco
+02:02:34	Fausto Martinez:	Reacted to "yo estuve en tu grup..." with 👀
+02:02:36	Alan Aguilar:	Reacted to "yo estuve en tu grup..." with 😯
+02:02:37	Francisco Losiewicz:	Reacted to "yo estuve en tu grup..." with 👀
+02:02:39	Javier ernesto moreno lloclle:	Reacted to "yo estuve en tu grup..." with 😯
+02:02:42	Juan Manuel Nosicoski:	Reacted to "yo estuve en tu grup..." with 👀
+02:02:43	juan bautista quiroga:	Reacted to "yo estuve en tu grup..." with 👀
+02:02:44	Juan Manuel Nosicoski:	Reacted to "yo estuve en tu grup..." with 😯
+02:02:44	Diego Berastain:	pueden pasar de nuevo el link porfa?
+02:02:48	Franco Sebastián Genre:	Reacted to "yo estuve en tu grup..." with 😅
+02:02:49	Iván Caetano:	lo que se pide hay que darlo
+02:02:52	Santiago Agarie:	Chau profe!! Buena semana!!
+02:02:53	Adriana Lucia Cadavid Tabares:	en mi grupo fueron super amables,, feliz noche
+02:02:56	Iván Caetano:	sino no sirve la queja
+02:02:56	Vero - Profesor Digital House:	https://forms.gle/XH4R62Up1Lys7jXY7
+02:02:57	Juan Manuel Nosicoski:	Reacted to "lo que se pide hay q..." with 👏
+02:03:04	Ermes Alcides Pino Nowacky:	Reacted to "yo estuve en tu grup..." with 👀
+02:03:07	Ayxa Chaverra:	Reacted to "yo estuve en tu grup..." with 😂
+02:03:09	Agustin Rivella:	Reacted to "yo estuve en tu grup..." with 👀
+02:03:10	Ermes Alcides Pino Nowacky:	Reacted to "yo estuve en tu grup..." with 😅
+02:03:15	Agustin Rivella:	Jjajajaja
+02:03:16	elian etcheimborde:	jajaja
+02:03:18	Karen Rodriguez Tapia:	kha?
+02:03:18	Karen Perez:	jajaaj
+02:03:21	Franco Sebastián Genre:	Replying to "yo estuve en tu grup..."
+
+El ayudante de EL Zorro un poroto.
+02:03:24	Christian Pommerenck:	Buenas noches
+02:03:27	Sebastian Saibene:	Buenas noches
+02:03:27	Francisco Parra:	chao profe
+02:03:31	Maria de los Angeles Roldan:	Chau, gracias!
+02:03:32	Iván Caetano:	buenas noches

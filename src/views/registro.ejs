@@ -3,18 +3,34 @@
   <%- include ('./partials/head') %>
   <body>
     <%- include ('./partials/navbar') %>
-
     <main class="general">
-      <form action="/users/registro" method="POST" class="formulario">
+      <form
+        action="/users/registro"
+        method="POST"
+        class="formulario"
+        enctype="multipart/form-data"
+      >
         <label for="nombreyapellido">Nombre y Apellido: </label>
-        <input
-          type="text"
-          name="nombreyapellido"
+        <input 
+          type="text" 
+          name="nombreyapellido" 
           id="nombreyapellido"
-          placeholder="Nombre y Apellido"
-        />
-        <label for="fecha-nacimiento">Fecha de Nacimiento:</label>
-        <input type="date" value="2000-01-01" id="fecha-nacimiento" />
+          placeholder="Nombre y Apellido" 
+          value="<%= locals.oldData?oldData.nombreyapellido:null %>" 
+          class="<%= (locals.errors&&errors.nombreyapellido)?"isinvalid": null %>" /> 
+          <% if (locals.errors && errors.nombreyapellido) { %>
+            <p class="errors"><%= errors.nombreyapellido.msg %></p>
+          <% } %>
+        <label for="fechanacimiento">Fecha de Nacimiento:</label>
+        <input 
+          type="date" 
+          name="fechanacimiento"
+          value="<%= locals.oldData?oldData.fechanacimiento:null %>" 
+          id="fecha-nacimiento" 
+          class= "<%=(locals.errors && errors.fechanacimiento)?"isinvalid": null %> "/> 
+            <% if (locals.errors && errors.fechanacimiento) { %>
+              <p class="errors"><%= errors.fechanacimiento.msg %></p>
+            <% } %>
 
         <!-- En el radio button lo que tiene que ser igual es el name -->
         <label>Sexo:</label>
@@ -26,19 +42,39 @@
           <label>Otro</label>
           <input type="radio" name="sexo" value="otro" />
         </div>
-        <label for="">Personaje favorito</label>
+        <!-- errors con selected---------------------------------  -->
+        <label>Personaje favorito</label>
         <select name="personajes" id="personajes">
-          <option value="spider-man" selected>Spider-Man</option>
-          <option value="wolverine">Wolverine</option>
-          <option value="thor">Thor</option>
-          <option value="otro">otro</option>
+          <option value="spider-man" <%=locals.oldData && oldData.personajes == 'spider-man'? "selected" :null %> >Spider-Man</option>
+          <option value="wolverine" <%=locals.oldData && oldData.personajes == 'wolverine'? "selected" :null %> >Wolverine</option>
+          <option value="thor" <%=locals.oldData && oldData.personajes == 'thor'? "selected" :null %> >Thor</option>
+          <option value="otro" <%=locals.oldData && oldData.personajes == 'otro'? "selected" :null %> >otro</option>
         </select>
+            <% if (locals.errors && errors.personajes) { %>
+              <p class="errors"><%= errors.personajes.msg %></p>
+            <% } %>
+            <!-- ---- error de file ---- -->
         <label for="foto">Subi una foto para el perfil</label>
         <input type="file" name="foto" id="foto" />
+          <% if (locals.errors && errors.foto) { %>
+          <p class="errors"><%= errors.foto.msg %></p>
+          <% } %>
         <label for="password">Contraseña</label>
-        <input type="password" name="password" />
-        <label for="confirm-password">Confirmar Contraseña</label>
-        <input type="password" name="confirm-password" />
+        <input 
+          type="password" 
+          name="password" 
+          class="<%= (locals.errors &&errors.password)? "isinvalid": null %>"/> 
+            <% if (locals.errors && errors.password) { %>
+              <p class="errors"><%= errors.password.msg %></p>
+            <% } %>
+        <label for="confirmpassword">Confirmar Contraseña</label>
+        <input 
+          type="password" 
+          name="confirmpassword" 
+          class="<%= (locals.errors && errors.confirmpassword)?"isinvalid": null %>"/> 
+          <% if (locals.errors && errors.confirmpassword) { %>
+            <p class="errors"><%= errors.confirmpassword.msg %></p>
+          <% } %>
         <div class="botones">
           <button class="button-1" type="reset">Borrar</button>
           <button class="button-1" type="submit">Enviar</button>

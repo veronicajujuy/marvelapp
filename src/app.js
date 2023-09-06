@@ -8,6 +8,8 @@ app.set("view engine", "ejs");
 app.set("views", "./src/views");
 // para decirle a express donde se encuentran nuestros archivos estaticos imagenes, css
 app.use(express.static("public"));
+// para poder enviar información por post:
+app.use(express.urlencoded({ extended: false }));
 
 app.use(mainRouter);
 app.use("/products", productRouter);
